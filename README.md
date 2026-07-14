@@ -1,13 +1,34 @@
-## Oii! Eu sou a Ana
+<img src="https://github.com/analuhss/analuhss/blob/main/banner%20readme.jpg" width="1000">
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+##
 
+<h3 align="center">
+Desenvolvedora full-stack
+</h3>
 
-<div> 
+<p>
+blablabalalb
+</p>
 
- 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+##
+### Sobre mim
+
+<p>
+blbalbalablabl
+</p>
+
+##
+
+### Tecnologia e ferramentas
+
+##
+
+### Meus próximos passos
+
+<p>
+blablalbalba
+</p>
+
+### 
+
+### Contato
